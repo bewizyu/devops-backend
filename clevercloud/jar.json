@@ -1,0 +1,10 @@
+{
+  "deploy": {
+    "jarName": "target/devops-backend-1.0-SNAPSHOT.jar"
+  },
+  "build": {
+    "type": "maven",
+    "goal": "package"
+  }
+  
+}
