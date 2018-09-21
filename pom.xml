@@ -8,6 +8,7 @@
 	<groupId>com.bewizyu</groupId>
 	<artifactId>devops-backend</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<name>My DevOps Backend</name>
 

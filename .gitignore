@@ -31,4 +31,5 @@ target
 .project
 .settings
 .classpath
-
+settings.json
+.vscode
